@@ -26,7 +26,7 @@
 <p align="left">I started my programming journey in 2024.<br>
   🎓Currently I'm studying at college in Kyrgyzstan.<br>
   💡Now, I'm gaining comercial experience by working on a lot of projects.<br>
-  🤝 I'm very positive person and able to work with many people
+  🤝 I'm very positive person and able to work with many people. <br>
   🎯 Developing stayble and powerful servers on java.</p>
 
 ###
