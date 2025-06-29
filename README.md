@@ -6,8 +6,8 @@
   <a href="https://t.me/AkeSweezy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
   </a>
-  <a href="dautov.292009@gmail.com">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" height="25" alt="gmail logo" />
+  <a href="https://mailto:dautov.292009@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo" />
   </a>
 </div>
 
