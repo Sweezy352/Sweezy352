@@ -1,4 +1,4 @@
-##🏄‍♂️ Hi there! I'm Muslim👋
+🏄‍♂️ Hi there! I'm Muslim👋
 
 **`I'm a Java junior developer!`**
 
@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
   </a>
   <a href="dautov.292009@gmail.com">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" height="25" alt="gmail logo" />
   </a>
 </div>
 
@@ -32,7 +32,7 @@
 ###
 
 <p align="left">
- <img width="600" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FPixelArt%2Fcomments%2Fx87lsd%2Fsoftware_developer_by_day_pixel_artist_by_night%2F&psig=AOvVaw3O6SknqQndd2sKl7eDabGL&ust=1751296544530000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiBipj2lo4DFQAAAAAdAAAAABAE" alt="logo"/>
+ <img width="600" src="https://miro.medium.com/v2/resize:fit:800/1*dXCMjbZeIB_Afn8Sn53HeA.gif" alt="logo"/>
 </p>
 
 ###
