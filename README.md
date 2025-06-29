@@ -25,17 +25,17 @@
 
 <h3 align="left">👩‍💻  About me</h3>
 
-<h3>
-<p align="left">I started my programming journey in 2024.<br>
+
+<p align="left">I started my programming journey in 2024.<br><br>
   
-  🎓Currently I'm studying at college in Kyrgyzstan.<br>
+  🎓Currently I'm studying at college in Kyrgyzstan.<br><br>
   
-  💡Now, I'm gaining comercial experience by working on a lot of projects.<br>
+  💡Now, I'm gaining comercial experience by working on a lot of projects.<br><br>
   
-  🤝 I'm very positive person and able to work with many people. <br>
+  🤝 I'm very positive person and able to work with many people. <br><br>
   
-  🎯 Developing stayble and powerful servers on java.</p>
-</h3>
+  🎯 Developing stayble and powerful servers on java.</p><br>
+
 
 <h3>
 <p align="left">
